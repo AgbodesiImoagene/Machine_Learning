@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="LinearRegressionModel" targetName="LinearRegressionModel" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4a6e5fb6-c159-4261-bab0-176c63dedd65" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Data/CVInput1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data/CVOutput1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data/DataManager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data/testInput1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data/testOutput1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data/trainingInput1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data/trainingOutput1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CVInput1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CVOutput1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.5/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.5/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LinearRegressionModel.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LinearRegressionModel.dir/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LinearRegressionModel.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LinearRegressionModel.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CVInput1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CVOutput1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/LinearRegressionModel.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LinearRegressionModel.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/datamanager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/input1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/output1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/testInput1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/testOutput1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/trainingInput1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/trainingOutput1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testInput1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testOutput1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainingInput1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainingOutput1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogisticRegressionClassifier/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LogisticRegressionClassifier/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogisticRegressionClassifier/cmake-build-debug/CMakeFiles/LogisticRegressionClassifier.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../LogisticRegressionClassifier/cmake-build-debug/CMakeFiles/LogisticRegressionClassifier.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogisticRegressionClassifier/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../LogisticRegressionClassifier/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogisticRegressionClassifier/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../LogisticRegressionClassifier/main.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1sTpI5Wa0I72xBD3VwuaGYfejFx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinearRegressionModel" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LinearRegressionModel" TARGET_NAME="LinearRegressionModel" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LinearRegressionModel" RUN_TARGET_NAME="LinearRegressionModel">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a6e5fb6-c159-4261-bab0-176c63dedd65" name="Default Changelist" comment="" />
+      <created>1620906351650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620906351650</updated>
+      <workItem from="1620906355399" duration="6772000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -12,11 +12,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c7f76c5-ea4b-4705-8d8e-dcdb18072d39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data/CVInput1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data/CVOutput1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data/DataManager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data/testInput1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data/testOutput1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data/trainingInput1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data/trainingOutput1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinearRegressionModel/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinearRegressionModel/CVInput1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinearRegressionModel/CVOutput1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinearRegressionModel/cmake-build-debug/CMakeFiles/3.17.5/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../LinearRegressionModel/cmake-build-debug/CMakeFiles/3.17.5/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinearRegressionModel/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../LinearRegressionModel/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinearRegressionModel/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../LinearRegressionModel/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinearRegressionModel/cmake-build-debug/CMakeFiles/LinearRegressionModel.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../LinearRegressionModel/cmake-build-debug/CMakeFiles/LinearRegressionModel.dir/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinearRegressionModel/cmake-build-debug/CMakeFiles/LinearRegressionModel.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../LinearRegressionModel/cmake-build-debug/CMakeFiles/LinearRegressionModel.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinearRegressionModel/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../LinearRegressionModel/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinearRegressionModel/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../LinearRegressionModel/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinearRegressionModel/cmake-build-debug/CVInput1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinearRegressionModel/cmake-build-debug/CVOutput1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinearRegressionModel/cmake-build-debug/LinearRegressionModel.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../LinearRegressionModel/cmake-build-debug/LinearRegressionModel.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinearRegressionModel/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../LinearRegressionModel/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinearRegressionModel/cmake-build-debug/datamanager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinearRegressionModel/cmake-build-debug/input1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinearRegressionModel/cmake-build-debug/output1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinearRegressionModel/cmake-build-debug/testInput1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinearRegressionModel/cmake-build-debug/testOutput1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinearRegressionModel/cmake-build-debug/trainingInput1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinearRegressionModel/cmake-build-debug/trainingOutput1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinearRegressionModel/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../LinearRegressionModel/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinearRegressionModel/main.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinearRegressionModel/testInput1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinearRegressionModel/testOutput1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinearRegressionModel/trainingInput1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinearRegressionModel/trainingOutput1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LogisticRegressionClassifier.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LogisticRegressionClassifier.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +57,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ClangdSettings">
+    <option name="clangTidyViaClangd" value="false" />
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
@@ -41,16 +75,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="LogisticRegressionClassifier" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LogisticRegressionClassifier" TARGET_NAME="LogisticRegressionClassifier" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LogisticRegressionClassifier" RUN_TARGET_NAME="LogisticRegressionClassifier">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -64,6 +94,11 @@
       <updated>1619641368847</updated>
       <workItem from="1619641371268" duration="1737000" />
       <workItem from="1619729605986" duration="535000" />
+      <workItem from="1619781412107" duration="12491000" />
+      <workItem from="1620307257725" duration="981000" />
+      <workItem from="1620861391064" duration="864000" />
+      <workItem from="1620902448500" duration="2939000" />
+      <workItem from="1620905998257" duration="6872000" />
     </task>
     <servers />
   </component>
